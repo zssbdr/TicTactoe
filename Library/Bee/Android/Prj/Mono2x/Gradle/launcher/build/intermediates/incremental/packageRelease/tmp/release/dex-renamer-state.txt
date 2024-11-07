@@ -1,0 +1,4 @@
+#Thu Nov 07 22:07:52 CST 2024
+base.0=E\:\\engine\\projects\\TicTacToeWithAI\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
